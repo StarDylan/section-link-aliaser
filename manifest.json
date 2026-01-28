@@ -1,0 +1,10 @@
+{
+	"id": "section-link-aliaser",
+	"name": "Section Link Aliaser",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Prettify section links.",
+	"author": "StarDylan",
+	"authorUrl": "https://github.com/StarDylan",
+	"isDesktopOnly": false
+}
